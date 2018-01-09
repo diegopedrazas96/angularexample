@@ -1,5 +1,5 @@
 # a million commits
-for j in {001..13}
+for j in {001..130}
 do
     Y=$((2018+$(($RANDOM % 1))))
     startm=1
