@@ -1,7 +1,7 @@
 # a million commits
 for j in {001..13}
 do
-    Y=$((2019+$(($RANDOM % 1))))
+    Y=$((2018+$(($RANDOM % 1))))
     startm=1
     endm=1
     startd=9
