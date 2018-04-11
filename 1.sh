@@ -3,7 +3,7 @@ for j in {001..130}
 do
     Y=$((2018+$(($RANDOM % 1))))
     startm=1
-    endm=1
+    endm=12
     startd=9
     endd=12
     M=$(($startm+$RANDOM%($endm-$startm+1)))
