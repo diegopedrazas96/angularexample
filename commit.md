@@ -1,1 +1,1 @@
-fix up some tests for Firefox on 1/24/2019
+update protractor to latest version on 1/28/2019
