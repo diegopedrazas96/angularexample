@@ -1,1 +1,1 @@
-clarify example description on 2/7/2019
+store release instructions on 2/11/2019
