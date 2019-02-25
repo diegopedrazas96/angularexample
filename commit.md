@@ -1,1 +1,1 @@
-properly handle false value for boolean attrs with jQuery on 2/20/2019
+add workaround for Safari / Webdriver problem on 2/25/2019
