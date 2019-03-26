@@ -1,1 +1,1 @@
-work around Firefox  bug on 3/22/2019
+change / remove obsolete information on 3/26/2019
